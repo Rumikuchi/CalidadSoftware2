@@ -1,6 +1,6 @@
 package sql;
 
-public interface IBookConstants {
+public interface IBookConstants{
 	
     public static String TABLE_BOOK = "books";
 	
